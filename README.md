@@ -1,6 +1,6 @@
 # André Brandão Ferreira
 
-Frontend Developer | React • Next.js • TypeScript  
+Frontend Developer | React • Next.js • TypeScript
 Brazil 🇧🇷
 
 ---
@@ -49,7 +49,3 @@ Modular hooks · Provider patterns · Immutable updates · Typed API boundaries
 - Improving frontend architecture patterns
 - Building scalable SaaS-style platforms
 - Deepening performance optimization strategies
-
----
-
-📫 Open to opportunities and collaborations.
