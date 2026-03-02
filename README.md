@@ -7,6 +7,8 @@ Brazil 🇧🇷
 
 ## About Me
 
+![GitHub Streak](https://streak-stats.demolab.com?user=andrebrandao-dev&theme=github-dark&hide_border=true)
+
 Frontend developer focused on building scalable, maintainable React applications.
 
 Strong experience with:
@@ -17,6 +19,8 @@ Strong experience with:
 - Performance optimization
 
 I enjoy turning complex business logic into structured, reliable UI systems.
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrebrandao-dev&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
@@ -33,16 +37,6 @@ React Hook Form · Zod · Dynamic Field Arrays
 
 **Architecture Focus:**  
 Modular hooks · Provider patterns · Immutable updates · Typed API boundaries
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andrebrandao-dev&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrebrandao-dev&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=andrebrandao-dev&theme=github-dark&hide_border=true)
 
 ---
 
