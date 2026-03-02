@@ -38,7 +38,7 @@ Modular hooks · Provider patterns · Immutable updates · Typed API boundaries
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrebrandao-dev&show_icons=true&hide_title=true&hide_border=true&theme=transparent&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andrebrandao-dev&show_icons=true&hide_title=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebrandao-dev&layout=compact&hide_border=true)
 
