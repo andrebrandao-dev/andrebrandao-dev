@@ -20,7 +20,7 @@ Strong experience with:
 
 I enjoy turning complex business logic into structured, reliable UI systems.
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrebrandao-dev&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrebrandao-dev&layout=compact&theme=dark&hide_border=true)
 
 ---
 
